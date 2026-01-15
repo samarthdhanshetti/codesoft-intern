@@ -1,0 +1,53 @@
+# Credit Card Fraud Detection
+
+This project detects fraudulent credit card transactions using Machine Learning techniques. 
+It helps identify suspicious transactions and reduces financial loss by classifying transactions as genuine or fraudulent.
+
+## Features
+- Handles highly imbalanced datasets
+- Data preprocessing and feature scaling
+- Machine Learning model training
+- Fraud prediction and evaluation
+
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+
+## Dataset
+- Source: Kaggle Credit Card Fraud Dataset
+- Records: European cardholders transactions
+- Target variable: Class (0 = Genuine, 1 = Fraud)
+
+## Workflow
+1. Load and explore dataset
+2. Handle missing values and imbalance
+3. Feature scaling
+4. Train ML models (Logistic Regression, Random Forest)
+5. Model evaluation
+6. Fraud prediction
+
+## How to Run
+1. Clone the repository  
+   git clone https://github.com/your-username/credit-card-fraud-detection.git
+
+2. Install dependencies  
+   pip install -r requirements.txt
+
+3. Run the script  
+   python fraud_detection.py
+
+## Results
+- High accuracy in detecting fraudulent transactions
+- Reduced false positives using proper evaluation metrics
+
+## Future Enhancements
+- Use deep learning models
+- Real-time fraud detection system
+- Deploy using Flask or Streamlit
+
+## Author
+Samarth Dhanshetti  
+AI & Data Science Student
