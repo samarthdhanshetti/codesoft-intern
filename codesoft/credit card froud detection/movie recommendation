@@ -1,0 +1,51 @@
+# Movie Recommendation System
+
+This project recommends movies to users based on their preferences using Machine Learning techniques.
+It helps users discover new movies similar to their interests.
+
+## Features
+- Content-based movie recommendations
+- Similarity calculation using ML
+- User-friendly recommendations
+- Fast and efficient predictions
+
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- NLP (TF-IDF / Cosine Similarity)
+
+## Dataset
+- Source: MovieLens Dataset
+- Data includes movie titles, genres, and ratings
+
+## Workflow
+1. Load and clean dataset
+2. Feature extraction
+3. Calculate similarity between movies
+4. Generate movie recommendations
+5. Display recommended movies
+
+## How to Run
+1. Clone the repository  
+   git clone https://github.com/your-username/movie-recommendation-system.git
+
+2. Install dependencies  
+   pip install -r requirements.txt
+
+3. Run the script  
+   python recommendation.py
+
+## Results
+- Accurate recommendations based on movie similarity
+- Efficient content-based filtering
+
+## Future Enhancements
+- Add collaborative filtering
+- Improve recommendations using deep learning
+- Deploy as a web application
+
+## Author
+Samarth Dhanshetti  
+AI & Data Science Student
