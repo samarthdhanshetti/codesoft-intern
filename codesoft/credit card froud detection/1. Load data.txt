@@ -1,0 +1,9 @@
+1. Load data
+2. Understand data
+3. Check imbalance
+4. Prepare data
+5. Train model
+6. Evaluate properly
+7. Improve detection
+8. Explain results
+9. Save model
