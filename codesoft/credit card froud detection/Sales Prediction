@@ -1,0 +1,53 @@
+# Sales Prediction
+
+This project predicts future sales using Machine Learning regression models.
+It helps businesses make better decisions based on sales trends and patterns.
+
+## Features
+- Data preprocessing and visualization
+- Regression-based sales prediction
+- Performance evaluation
+- Predict future sales values
+
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+## Dataset
+- Source: Advertising / Sales Dataset
+- Features: TV, Radio, Newspaper advertising
+- Target: Sales
+
+## Workflow
+1. Load and analyze dataset
+2. Data preprocessing
+3. Feature selection
+4. Train regression models
+5. Evaluate model performance
+6. Predict sales
+
+## How to Run
+1. Clone the repository  
+   git clone https://github.com/your-username/sales-prediction.git
+
+2. Install dependencies  
+   pip install -r requirements.txt
+
+3. Run the script  
+   python sales_prediction.py
+
+## Results
+- Accurate sales prediction
+- Low MAE and RMSE values
+
+## Future Enhancements
+- Add deep learning models
+- Include more real-world features
+- Deploy using Streamlit dashboard
+
+## Author
+Samarth Dhanshetti  
+AI & Data Science Student
